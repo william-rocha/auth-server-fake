@@ -1,0 +1,146 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Keyboard",
+            "color": "olive",
+            "cost": "117.00",
+            "quantity": 416
+        },
+        {
+            "id": 2,
+            "name": "Cheese",
+            "color": "pink",
+            "cost": "810.00",
+            "quantity": 785
+        },
+        {
+            "id": 3,
+            "name": "Bacon",
+            "color": "silver",
+            "cost": "882.00",
+            "quantity": 855
+        },
+        {
+            "id": 4,
+            "name": "Tuna",
+            "color": "sky blue",
+            "cost": "157.00",
+            "quantity": 549
+        },
+        {
+            "id": 5,
+            "name": "Table",
+            "color": "mint green",
+            "cost": "314.00",
+            "quantity": 535
+        },
+        {
+            "id": 6,
+            "name": "Chair",
+            "color": "yellow",
+            "cost": "418.00",
+            "quantity": 949
+        },
+        {
+            "id": 7,
+            "name": "Fish",
+            "color": "white",
+            "cost": "957.00",
+            "quantity": 968
+        },
+        {
+            "id": 8,
+            "name": "Cheese",
+            "color": "tan",
+            "cost": "815.00",
+            "quantity": 591
+        },
+        {
+            "id": 9,
+            "name": "Bacon",
+            "color": "maroon",
+            "cost": "987.00",
+            "quantity": 288
+        },
+        {
+            "id": 10,
+            "name": "Fish",
+            "color": "teal",
+            "cost": "345.00",
+            "quantity": 709
+        }
+    ],
+    "sellers": [
+        {
+            "id": 1,
+            "firstName": "Isobel",
+            "lastName": "Hilll",
+            "jobArea": "Integration",
+            "address": "Albania"
+        },
+        {
+            "id": 2,
+            "firstName": "Clifford",
+            "lastName": "Pfannerstill",
+            "jobArea": "Communications",
+            "address": "Cocos (Keeling) Islands"
+        },
+        {
+            "id": 3,
+            "firstName": "Darrion",
+            "lastName": "Labadie",
+            "jobArea": "Quality",
+            "address": "Niger"
+        },
+        {
+            "id": 4,
+            "firstName": "Kathlyn",
+            "lastName": "Kihn",
+            "jobArea": "Mobility",
+            "address": "Costa Rica"
+        },
+        {
+            "id": 5,
+            "firstName": "Carmelo",
+            "lastName": "Hand",
+            "jobArea": "Infrastructure",
+            "address": "Myanmar"
+        },
+        {
+            "id": 6,
+            "firstName": "Mackenzie",
+            "lastName": "Lemke",
+            "jobArea": "Configuration",
+            "address": "Sudan"
+        },
+        {
+            "id": 7,
+            "firstName": "Celestine",
+            "lastName": "Johnson",
+            "jobArea": "Accounts",
+            "address": "Malaysia"
+        },
+        {
+            "id": 8,
+            "firstName": "Cathryn",
+            "lastName": "Kohler",
+            "jobArea": "Identity",
+            "address": "Palestinian Territory"
+        },
+        {
+            "id": 9,
+            "firstName": "Daryl",
+            "lastName": "Deckow",
+            "jobArea": "Usability",
+            "address": "Sierra Leone"
+        },
+        {
+            "id": 10,
+            "firstName": "Jared",
+            "lastName": "Harvey",
+            "jobArea": "Paradigm",
+            "address": "Benin"
+        }
+    ]
+}
